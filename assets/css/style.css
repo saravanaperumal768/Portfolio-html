@@ -1,0 +1,31 @@
+.border_right{
+border-right: 1px solid #fff;
+}
+
+.border_bottom{
+    border-bottom: 1px solid #a19b9b;
+    }
+
+.pad_20{
+    padding: 20px 0px;
+}
+
+.skill__icon-thumb img{
+    border-radius: 50%;
+}
+
+
+
+
+@media (max-width:776px){
+    .section__title-space{
+        margin-bottom: 15px;
+    }
+    .award__btn{
+        display: none;
+    }
+    .backtotop-wrap{
+        display: none;
+    }
+}
+
